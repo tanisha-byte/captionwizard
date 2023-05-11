@@ -24,7 +24,7 @@ model.to(device)
 load_dotenv()
 # Getting the key from env
 # openai.api_key = os.environ.get('API_KEY')  ## you Openai key
-openai.api_key = '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'
+openai.api_key = 'key'
 openai_model = "text-davinci-002"  # OpenAI model
 
 
